@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666718616 source:a:\subjects\ds\try some things\list try\list 5func 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1666718709 a:\subjects\ds\try some things\list try\list 5func 2\list.h
+
+1666718725 source:a:\subjects\ds\try some things\list try\list 5func 2\list.c
+	<stdio.h>
+	"list.h"
+
